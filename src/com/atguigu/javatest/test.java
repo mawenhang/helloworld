@@ -7,6 +7,7 @@ public class test {
 		System.out.println("111111");
 		System.out.println("1111");
 		System.out.println("wangchunxu");
+		System.out.println("hehuoren");
 	}
 
 }
