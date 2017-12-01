@@ -8,6 +8,9 @@ public class test {
 		System.out.println("1111");
 		System.out.println("wangchunxu");
 		System.out.println("china");
+//ui
+//ui2
+
 	}
 
 }
